@@ -1,6 +1,6 @@
 import React from "react";
 import { auth, signOut } from "@/auth";
-import { sign } from "crypto";
+// import { sign } from "crypto";
 import ROUTES from "@/constants/routes";
 
 export default async function Home() {
